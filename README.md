@@ -22,4 +22,10 @@ The data set used is a public data set in a csv format and was primarily obtaine
 
   ~strike through~
 ---
-  
+```
+Google Query Sheet
+
+SELECT * FROM TABLE 1
+WHERE CONDITION = MET
+
+```
