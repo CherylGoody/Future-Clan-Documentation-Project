@@ -29,7 +29,7 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
 ```
-![](Screenshot_20240526-191503.jpg)
+![](data.vis.png)
 
 |Heading 1 | Heading 2| Heading 3|
 |--------- | -------- | ------- |
