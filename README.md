@@ -1,32 +1,22 @@
-# Future-Clan-Documentation-Project
+# Future-Clan-Participant-Project
 ## Overview
-This is the first official project on the Future Clan Data Analysis Bootcamp. This project aims at uncovering insights from a data set by analysing the set out parameters in the data set to enable stake holders make informed and reasonable decision.
+This is the first official project on the Future Clan Data Analysis Bootcamp. This project aims at uncovering insights from the participants' data set by analysing the demographics and other parameters in the data set to enable entire class better understand.
 
 ## Project Outline
 - Data Source
 - Tools Used
+- Visualizations
 - Reports
+- Insights
 
 ### Data Source
-The data set used is a public data set in a csv format and was primarily obtained from an online data base i.e Kaggle and can be downloaded [Here] (https://Kaggle.com) 
+ The data set used is a google sheet data set and was primarily sourced from an online service [Google Sheet} (https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit#gid=1248562073)
 
 ### Tools Used
-- MS EXCEL for data cleaning [click here to download](https://microsoft.com)
-- MICROSOFT BI for analysis and visualization.
-- Python
-- SQL
+- MICROSOFT BI for data analysis and data visualization.
 
-  **bi**
-  
-  _italics_
 
-  ~strike through~
----
-```
-Google Query Sheet
 
-SELECT * FROM TABLE 1
-WHERE CONDITION = MET
 
 ```
 ![](data.vis.png)
