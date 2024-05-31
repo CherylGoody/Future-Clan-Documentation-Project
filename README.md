@@ -13,7 +13,7 @@ This is the first official project on the Future Clan Data Analysis Bootcamp. Th
  The data set used is a google sheet data set and was primarily sourced from an online service [Google Sheet} (https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit#gid=1248562073)
 
 ### Tools Used
-- MICROSOFT BI for data analysis and data visualization.
+- MICROSOFT BI was used for data analysis using the power query and data visualization.
 
 
 
