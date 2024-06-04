@@ -1,6 +1,6 @@
 # Future-Clan-Participant-Project
 ## Overview
-This is the first official project on the Future Clan Data Analysis Bootcamp. This project aims at uncovering insights from the participants' data set by analysing the demographics and other parameters in the data set to enable entire class better understand.
+This is my first official data analysis project from the Future Clan Data Analysis Bootcamp. This project aims at uncovering insights from the participants' data set through the analysis of their demographics and other parameters in the data set to enable entire class better understand their categories, similarities as well as their differences.
 
 ## Project Outline
 - Data Source
@@ -12,8 +12,11 @@ This is the first official project on the Future Clan Data Analysis Bootcamp. Th
 ### Data Source
  The data set used is a google sheet data set and was primarily sourced from an online service [Google Sheet} (https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit#gid=1248562073)
 
+ 
+ 
+
 ### Tools Used
-- MICROSOFT BI was used for data analysis using the power query and data visualization.
+- Microsoft Power BI was used for data analysis using the power query editor and data visualization tools.
 
 
 
