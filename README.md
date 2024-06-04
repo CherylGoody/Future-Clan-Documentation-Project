@@ -14,7 +14,19 @@ This is my first official data analysis project from the Future Clan Data Analys
 
 Here's a view of the outlook of the data set;
 ![](data.png)
-
+The data set before cleaning and transformation had a total number of 12 columns consisting of:
+- Time stamp
+- Email Address
+- Full name (surname and first name)
+- Email
+- Gender
+- Unique code
+- Group Number
+- Age range
+- Residential Location (state)
+- Highest Level of Education
+- Marital status
+- Occupation
  
 
 ### Tools Used
@@ -24,8 +36,4 @@ Here's a view of the outlook of the data set;
 
 
 ```
-![](data.vis.png)
-
-|Heading 1 | Heading 2| Heading 3|
-|--------- | -------- | ------- |
-| Data 1   | Data 2   | Data 3  |
+goody
