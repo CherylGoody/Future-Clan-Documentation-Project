@@ -50,7 +50,10 @@ tHE dashboard answers the following questions:
 - How many class groups were created and how many participants were present in each group?
 
 #### *Report Visuals*
-![]()
+![](Capture_2.png)
+
+
+![](Capture_3.png)
 
 
 
