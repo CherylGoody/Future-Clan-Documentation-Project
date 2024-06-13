@@ -36,6 +36,8 @@ The data set before cleaning and transformation had a total number of 12 columns
 The dashboard visual and the report visuals will be used to explain the data set and the categorizations of the popukatiob present in the data analysis class of the Future clan Bootcamp
 
 *The dashboard Visuals*
+![]()
+this dashboard above gives a summary of all the visuals used in analysing this data set to better understand the class participants, identify trends and derive meaningful insight. 
 
 
 
