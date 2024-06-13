@@ -32,6 +32,11 @@ The data set before cleaning and transformation had a total number of 12 columns
 ### Tools Used
 - Microsoft Power BI was used for data analysis using the power query editor and data visualization tools.
 
+### Visualizations
+The dashboard visual and the report visuals will be used to explain the data set and the categorizations of the popukatiob present in the data analysis class of the Future clan Bootcamp
+
+*The dashboard Visuals*
+
 
 
 
