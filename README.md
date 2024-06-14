@@ -64,15 +64,24 @@ Report 2
 Findings from report one answers the questions of the age, gender, and marital status
 
 #### Findings from the categorization of participants by Gender
-![]()
-Chart A from report 1 above is a pie chart that shows the categorization of the participants by their gender. the 2 specific genders accross the entire participants are male and female gender. the report shows that 97 particpants were male while 70 participants were female.  
+![](Capture_4.png) 
+---
+Chart A above is a pie chart that shows the categorization of the participants by their gender. The 2 specific genders accross the entire participants are male and female gender. the report shows that 97 participants were male while 70 participants were female.  
 
-#### Findings on the age of participants
-The age range of the participants were categorized from
+#### Findings from the categorization of participants by Age group
+![](Capture_5.png)
+---
+The age range of the participants were grouped into: Under 25, 26 - 35, 36 - 40, and over 40.
+Chart B above is a bar chart that shows the categorization of the participants by their age group. The findings showed that 45 participants were under 25; 115 participants were between 26 - 35 years of age; 3 participants were between 36 - 40 years of age; and 4 participants were over 40 years of age as shown in Chart B above. it is therefore true to say that majority of the participants were between 26 - 35 years of age from the analysis.
+
+#### Findings from the categorization of participants by Marital Status
+![](Capture_6.png)
+---
+Chart C above is a funnel chart that categorized the participants by their marital status. Findings from the analysis shows that 138 participants were single; 28 participants were married and only 1 participant was divorced. Therefore, Majority of the participants were single. 
+
+#### Findings from the categorization of participants by Residential Location
+The participants were spread across 12 states of the federation: Anambra, Delta, Edo, FCT, Kogi, Lagos, Niger, Ogun, Ondo, Osun, Oyo, and Rivers state.
+the Visual used to identify total number of participants was a *Slicer* that has the different locations and by clicking any state on the slicer, it automtically gives a summary and categorization of the participants by their residential location.
+![](Anambra_1.png)
 
 
-
-
-
-```
-goody
