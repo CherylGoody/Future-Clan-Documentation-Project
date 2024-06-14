@@ -50,10 +50,25 @@ tHE dashboard answers the following questions:
 - How many class groups were created and how many participants were present in each group?
 
 #### *Report Visuals*
+
+Report 1
+
 ![](Capture_2.png)
 
 
+Report 2
+
 ![](Capture_3.png)
+
+### Findings
+Findings from report one answers the questions of the age, gender, and marital status
+
+#### Findings from the categorization of participants by Gender
+![]()
+Chart A from report 1 above is a pie chart that shows the categorization of the participants by their gender. the 2 specific genders accross the entire participants are male and female gender. the report shows that 97 particpants were male while 70 participants were female.  
+
+#### Findings on the age of participants
+The age range of the participants were categorized from
 
 
 
