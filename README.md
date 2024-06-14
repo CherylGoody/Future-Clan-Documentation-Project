@@ -1,6 +1,6 @@
 # Future-Clan-Participant-Project
 ## Overview
-This is my first official data analysis project. The data set used was obtained onsite from participants of the data analysis class during the Future Clan Bootcamp. This project aims at uncovering insights from the participants' data set through the analysis of their demographics and other parameters in the data set to enable entire class better understand their categories, similarities as well as their differences.
+This is my first official data analysis project. The data set used was obtained onsite from the participants of the data analysis class during the Future Clan Bootcamp. This project aims at uncovering insights from the participants' data set through the analysis of their demographics and other parameters in the data set to enable better understanding of the participants' categories, similarities as well as their differences.
 
 ## Project Outline
 - Data Source
