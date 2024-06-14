@@ -45,7 +45,7 @@ tHE dashboard answers the following questions:
 - What is the categorization of the participants by gender?
 - What is the categorization of the participants by marital status?
 - What is the categorization of the participants by occupation?
-- What is the categorization of the participants by highest llevel of education?
+- What is the categorization of the participants by highest level of education?
 - What is the categorization of the participants based on residential location?
 - How many class groups were created and how many participants were present in each group?
 
@@ -93,5 +93,23 @@ The above visual report shows the total number of participants that came from An
 **Participants by FCT**
 
 ![](Fct_1.png)
+
 ---
 The above visual report shows the total number of participants that came from Federal Capital Territory (FCT). 4 participants came from FCT as well as from Delta State. This could be as a result of the long distance between the venue and the state of residence coupled with the rise in the cost of transportation. 2 of the participants from FCT were single while 2 participants were married; 1 participant was under 25 years, 2 were between 26 - 35 years of age and 1 was over 40 years of age. 
+Furthermore, states such as Ondo, Osun and Oyo have a total number of 5, 6, and 13 participants respectively.
+
+**Participants by Lagos State**
+
+![](Lagos_1.png)
+
+---
+The above visual report shows the total number of participants that came from Lagos State. 79 participants came from Lagos State. This could be as a result of the close proximity between the venue and the state of residence. 63 participants were single; 15 participants were married and 1 participant was divorced. Also, 16 participants were under 25 years, 59 were between 26 - 35 years of age, 3 were between 36 - 40 years of age and 1 was over 40 years of age. 
+Lagos state as seen, has the highest number of participants even compared to the host state.
+
+**Participants by Host State**
+
+![](Ogun_1.png)
+
+---
+Ogun state was the host state of the boot camp as the boot camp was held right in the state. The above visual report shows the total number of participants that came from Ogun State. 50 participants came from Ogun State. Ordinarily, it would ne expected that Ogun State should produce the majority of the participants being that it was held right in the state but that wasnt the reality. There are a couple of factors that could have influenced this outcome which includes but are not restricted to lack of awareness, majority not being tech-inclined in the area and a host of other factors. 41 participants were single and 9 participants were married. Also, 20 participants were under 25 years, 28 were between 26 - 35 years of age, and 1 was over 40 years of age. 
+
