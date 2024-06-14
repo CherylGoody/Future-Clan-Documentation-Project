@@ -82,6 +82,16 @@ Chart C above is a funnel chart that categorized the participants by their marit
 #### Findings from the categorization of participants by Residential Location
 The participants were spread across 12 states of the federation: Anambra, Delta, Edo, FCT, Kogi, Lagos, Niger, Ogun, Ondo, Osun, Oyo, and Rivers state.
 the Visual used to identify total number of participants was a *Slicer* that has the different locations and by clicking any state on the slicer, it automtically gives a summary and categorization of the participants by their residential location.
+
+**Participants by Anambra State**
+
 ![](Anambra_1.png)
 
+---
+The above visual report shows the total number of participants that came from Anambra State. Only 1 participant came from Anambra as well as from other states such as Kogi State, Niger and Rivers state. this could be as a result of the long distance between the venue and the state of residence. All of the prticipants from these states were single and betwen 26 - 35 years of age.
 
+**Participants by FCT**
+
+![](Fct_1.png)
+---
+The above visual report shows the total number of participants that came from Federal Capital Territory (FCT). 4 participants came from FCT as well as from Delta State. This could be as a result of the long distance between the venue and the state of residence coupled with the rise in the cost of transportation. 2 of the participants from FCT were single while 2 participants were married; 1 participant was under 25 years, 2 were between 26 - 35 years of age and 1 was over 40 years of age. 
